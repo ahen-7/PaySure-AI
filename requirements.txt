@@ -1,7 +1,0 @@
-streamlit
-requests
-python-dotenv
-google-genai
-razorpay
-fastapi
-uvicorn
